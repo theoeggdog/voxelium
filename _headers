@@ -1,0 +1,4 @@
+# Serve Brotli compressed files correctly
+*.br
+  Content-Encoding: br
+  Vary: Accept-Encoding
